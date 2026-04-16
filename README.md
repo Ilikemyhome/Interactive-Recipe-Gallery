@@ -12,11 +12,11 @@ Navigation buttons with boundary checks
 Easy to integrate into a larger dashboard
 
 ##  Setup
-bash
-npm create vite@latest gallery-app -- --template react
-cd gallery-app
-npm install
-npm run dev
+      bash
+      npm create vite@latest gallery-app -- --template react
+      cd gallery-app
+      npm install
+      npm run dev
 
 ## Test Cases
 
